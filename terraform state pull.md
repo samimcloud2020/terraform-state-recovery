@@ -1,4 +1,5 @@
 $ terraform state pull -h
+
 Usage: terraform [global options] state pull [options]
 
   Pull the state from its location, upgrade the local copy, and output it
