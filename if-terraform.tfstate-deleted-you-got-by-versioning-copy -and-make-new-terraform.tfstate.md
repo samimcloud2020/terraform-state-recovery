@@ -26,7 +26,7 @@ You don't want to be here again. How did you delete/lose the bucket? You really 
 -------------------------------------------------------------------------------------------------
 also you can import resource
 
-$terraform import aws resource.resource name
+$terraform import aws-resource.resource-name
   
 $terraform plan
   
