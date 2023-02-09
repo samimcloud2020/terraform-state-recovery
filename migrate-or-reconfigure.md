@@ -43,3 +43,8 @@ Terraform has been successfully initialized!
 
 -------------------------------------------------------------------------------------------
 
+root@SDOP_Ts:~/terraform-modules/xxx# terraform state pull
+
+---------------------------------------------------------------------------------------
+if after s3 backend change and you do
+$terraform init -reconfigure  <----store the current configuration with no changes to the state
